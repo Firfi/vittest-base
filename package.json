@@ -1,0 +1,17 @@
+{
+  "name": "vittest-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "uuid": "^9.0.0",
+    "vitest": "^0.30.1"
+  }
+}
